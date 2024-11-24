@@ -1,8 +1,8 @@
 package contaCorrente;
 
 public class Conta {
-	long numeroDaConta;
-	short numeroDaAgencia;
+	Integer numeroDaConta;
+	Integer numeroDaAgencia;
 	String nomeDoCliente;
 	String dataDeNascimento;
 	double saldoDaConta;
