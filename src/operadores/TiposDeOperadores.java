@@ -53,6 +53,5 @@ public class TiposDeOperadores {
 		System.out.println("Diferente: " + (k != l));
 		System.out.println("Maior: " + (k > l));
 		System.out.println("Maior ou Igual: " + (k >= l));
-
 	}
 }
