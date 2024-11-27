@@ -5,8 +5,8 @@ import java.util.Scanner;
 public class ClassesEssenciais {
     public static void main(String[] args) {
         // Classes Essenciais
-        System.out.println("Test"); // Para saida de dados
-        System.err.println("Erro"); // Para erro
+        // System.out.println("Test"); // Para saida de dados
+        // System.err.println("Erro"); // Para erro
 
         // Utilizando System.err, System.out e System.in
         Scanner scan = new Scanner(System.in); // Instanciando Scanner
